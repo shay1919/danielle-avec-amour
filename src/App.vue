@@ -1,3 +1,11 @@
+<script setup>
+import Navbar from "@/components/Navbar.vue";
+import Products from "@/components/Products.vue";
+import Footer from "@/components/Footer.vue";
+</script>
+
 <template>
-	<h1 class="text-2xl">Danielle Avec Amour</h1>
+	<Navbar />
+	<Products />
+	<Footer />
 </template>
