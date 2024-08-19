@@ -7,6 +7,9 @@ export default {
 				sans: ["Dosis", "sans-serif"],
 				serif: ["Merriweather", "serif"],
 			},
+			colors: {
+				"custom-red": "#C82B2D",
+			},
 			typography: {
 				DEFAULT: {
 					css: {
